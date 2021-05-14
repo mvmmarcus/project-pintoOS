@@ -1,0 +1,6 @@
+*.o
+*.swp
+**/build
+bochsrc.txt
+bochsout.txt
+/.vscode
